@@ -1,0 +1,65 @@
+body {
+    text-align:center;
+    width: 550px;
+    height: 550px;
+    left: 0px;
+    top: 83px;
+    background: #FBF7EE; 
+    
+}
+
+
+header {
+    text-align: center;
+    width: 550px;
+    height: 260px;
+    left: 0px;
+    top: 0;   
+    font-family: "Inter";
+    font-style: normal;
+    color:#FFFFFF;
+    background: linear-gradient(246.26deg, #585DFE 0%, #FB3796 100%);
+    
+}
+
+.header_p {
+    margin: 0; 
+    padding: 70px;
+    font-size: 85px;
+}
+
+main {
+    text-align:center;
+    width: 550px;
+    height: 290px;
+    left: 0px;
+    top: 0px;
+    font-family: "Inter";
+    font-style: normal;
+    color: #1A1921;
+    background: #E5E5E5; 
+}
+
+h1 {   
+    padding-top: 10px;
+    margin: 0;
+ }
+ 
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+} 
+
+section { 
+    padding-top: 7.5px;
+}
+
+.summed_values {
+    padding: 3.5px;
+}
